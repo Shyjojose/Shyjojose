@@ -1,7 +1,7 @@
-Hi, I’m @Shyjojose
-I’m interested in Python, Java and JavaScript
-I’m currently Doing My master's in AI in smart sensors and actuators. 
-I’m looking to collaborate on any project that involves the above...
+- Hi, I’m @Shyjojose
+-I’m interested in Python, Java and JavaScript
+-I’m currently Doing My master's in AI in smart sensors and actuators. 
+-I’m looking to collaborate on any project that involves the above...
 email me shyjojosect@gmail.com
 
 <!---
