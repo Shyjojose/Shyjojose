@@ -1,8 +1,12 @@
-- Hi, I’m @Shyjojose
--I’m interested in Python, Java and JavaScript
--I’m currently Doing My master's in AI in smart sensors and actuators. 
--I’m looking to collaborate on any project that involves the above...
-email me shyjojosect@gmail.com
+Hi, I’m @Shyjojose
+I'm interested in Python, Java, and JavaScript.
+
+I'm currently pursuing my Master's in 
+AI in Smart Sensors and Actuators at Deggendorf Institute of Technology.
+
+I’m looking to collaborate on any projects involving these areas!
+
+📧 You can reach me at: shyjojosect@gmail.com
 
 <!---
 Shyjojose/Shyjojose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
